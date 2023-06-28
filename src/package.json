@@ -12,8 +12,9 @@
     "ejs": "^3.1.9",
     "express": "^4.18.2",
     "http-errors": "~1.6.3",
-    "morgan": "~1.9.1"
-  },
+    "morgan": "~1.9.1",
+    "yarn": "^1.22.19"
+  }
   "devDependencies": {
     "jest": "^29.5.0"
   },
@@ -29,4 +30,3 @@
   },
   "homepage": "https://github.com/Yproshot/aluno-online#readme",
   "description": ""
-}
